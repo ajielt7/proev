@@ -1,0 +1,78 @@
+* {
+    font-family: 'roboto', sans-serif;
+}
+
+body {
+    background-image: url(./event.jpeg);
+    background-size: cover;
+
+}
+
+section .maju div:nth-child(1) {
+    font-family: 'Yesteryear', cursive;
+    margin-bottom: -40px ;
+}
+
+section .maju div:nth-child(2) {
+    font-family: 'Archivo Black', sans-serif;
+    margin-top:0px;
+}
+
+.kep img {
+    height: 30px;
+}
+.kep h4 {
+    height: middle;
+    color: rgb(153, 146, 146);
+}
+
+hr {
+    border-color: rgb(112, 104, 104);
+    width: 90%;
+    margin-left: 35px;
+    border-width: medium;
+}
+
+.by img {
+    height: 45px;
+}
+
+.by h5{
+    font-size: 35px;
+    color: rgb(194, 187, 187);
+}
+
+.btn {
+    width: 90%;
+    margin-left: 35px;
+    font-size: 20px;
+    }
+
+.cen {
+    margin-top: 125px;
+}
+
+h2 {
+    margin: 20px;
+    background: #fff;
+    margin-top: -34px;
+    margin-left: 217px;
+    width: 200px;
+    color: rgb(112, 104, 104);
+}
+
+.fab {
+    font-size: 40px;
+}
+
+.dis-1 {
+    font-size: 120px;
+}
+
+.lab{
+    font-size: 25px;
+    color: rgb(122, 122, 117);
+}
+.med {
+    font-size: 25px;
+}
