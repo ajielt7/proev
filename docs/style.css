@@ -28,8 +28,7 @@ section .maju div:nth-child(2) {
 
 hr {
     border-color: rgb(112, 104, 104);
-    width: 90%;
-    margin-left: 35px;
+    width: 100%;
     border-width: medium;
 }
 
@@ -43,8 +42,7 @@ hr {
 }
 
 .btn {
-    width: 90%;
-    margin-left: 35px;
+    width: 100%;
     font-size: 20px;
     }
 
@@ -56,8 +54,8 @@ h2 {
     margin: 20px;
     background: #fff;
     margin-top: -34px;
-    margin-left: 217px;
-    width: 200px;
+    margin-left: 150px;
+    width: 250px;
     color: rgb(112, 104, 104);
 }
 
