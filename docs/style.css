@@ -74,3 +74,29 @@ h2 {
 .med {
     font-size: 25px;
 }
+
+
+@media (max-width: 575.98px) {
+    .maju .display-2 {
+        font-size: 60px;
+    }
+
+    .dis-1 {
+        font-size: 80px;
+    }
+
+    section .maju div:nth-child(1) {
+        margin-bottom: -30px ;
+    }
+}
+
+@media (max-width: 767.98px) { 
+
+}
+
+@media (max-width: 991.98px) {
+}
+
+@media (max-width: 1199.98px) {
+
+}
